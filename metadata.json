@@ -1,0 +1,6 @@
+{
+  "name": "Thee Weave Snatcher | Ayanna Charelle Hair Studio",
+  "description": "Independent luxury salon and booking platform for Ayanna Charelle (Thee Weave Snatcher), specializing in sew-ins, quick weaves, silk presses, and natural hair care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
